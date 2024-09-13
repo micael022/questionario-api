@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+provavelmente apresenta problemas graves na configuração do ambiente e exibe diversas mensagens de erro inesperadas
+atualmente apresenta problemas de conexão com o banco de dados postgresSQL  (não se conecta ao banco/ erro no comando -rails db:create)
+não responde em html no navegador 
